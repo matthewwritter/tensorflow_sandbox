@@ -1,2 +1,4 @@
 # tensorflow_sandbox
-Playing around with GPU-supported TensorFlow
+## TODO
+* Implement linear regression
+	* Definition of Done: 100M noisy points are fit, random subsample visualized
